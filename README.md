@@ -1,3 +1,6 @@
 RS school CV 👇
 
-🔗 https://tbabl.github.io/rsschool-cv/cv
+🔗 markdown:  https://tbabl.github.io/rsschool-cv/cv
+<br>
+🔗 html: https://tbabl.github.io/rsschool-cv/
+
